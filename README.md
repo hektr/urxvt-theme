@@ -1,2 +1,2 @@
 # urxvt-theme
-Color theme for terminal
+Color theme for urxvt terminal
